@@ -48,7 +48,25 @@
 
 Вы можете запросить доступ, исправление или удаление данных, написав на контактный email ниже. Удаление внутри игры доступно в настройках профиля.
 
-### 8. Контакты
+### 8. Удаление аккаунта и данных
+
+Вы можете удалить аккаунт и связанные с ним данные двумя способами:
+
+**Способ 1 — в игре:**
+1. Откройте «Cyber Tycoon Syndicate»
+2. Откройте настройки профиля
+3. Нажмите «Удалить аккаунт» и подтвердите
+
+**Способ 2 — по email:**
+1. Напишите на azatgataulin29@gmail.com с темой «Удаление аккаунта»
+2. Укажите ваш игровой никнейм или PlayFab ID (виден в настройках профиля)
+3. Мы удалим данные в течение 30 дней
+
+**Что удаляется:** профиль, игровой прогресс, членство в синдикате, история чата, сохранённые данные на сервере PlayFab.
+
+**Что сохраняется:** анонимная статистика покупок у Google Play (обрабатывается Google, мы к ней доступа не имеем). Локальные файлы на устройстве удаляются вместе с игрой.
+
+### 9. Контакты
 
 Email: azatgataulin29@gmail.com
 
@@ -95,6 +113,24 @@ The game is not directed at children under 13. We do not knowingly collect child
 
 You may request access, correction, or deletion of your data by emailing us below. In-game deletion is available in profile settings.
 
-### 8. Contact
+### 8. Account and data deletion
+
+You can delete your account and associated data in two ways:
+
+**Option 1 — in the game:**
+1. Open "Cyber Tycoon Syndicate"
+2. Open profile settings
+3. Tap "Delete account" and confirm
+
+**Option 2 — by email:**
+1. Email azatgataulin29@gmail.com with the subject "Account deletion"
+2. Include your in-game nickname or PlayFab ID (shown in profile settings)
+3. We will delete the data within 30 days
+
+**What is deleted:** profile, game progress, syndicate membership, chat history, and stored data on PlayFab servers.
+
+**What is retained:** anonymous purchase records held by Google Play (processed by Google; we have no access). Local files on your device are removed when you uninstall the game.
+
+### 9. Contact
 
 Email: azatgataulin29@gmail.com
