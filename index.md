@@ -1,4 +1,4 @@
-# Политика конфиденциальности / Privacy Policy
+﻿# Политика конфиденциальности / Privacy Policy
 
 **Cyber Tycoon Syndicate**
 Дата последнего обновления / Last updated: 22 ноября 2026 г.
@@ -50,7 +50,7 @@
 
 ### 8. Контакты
 
-Email: [ВАШ EMAIL]
+Email: azatgataulin29@gmail.com
 
 ---
 
@@ -97,4 +97,4 @@ You may request access, correction, or deletion of your data by emailing us belo
 
 ### 8. Contact
 
-Email: [YOUR EMAIL]
+Email: azatgataulin29@gmail.com
